@@ -2,7 +2,7 @@
 
 ## About
 This repository contains beginner-friendly machine learning projects applied to bioinformatics.
-It is created as a learning portfolio for placements and academic projects.
+It is created as a learning portfolio for academic projects.
 
 ## Topics Covered
 - Python basics for data analysis
